@@ -127,7 +127,7 @@ $('#yes').click(function() {
                 text: "Tối nay Tui qua đón đi chơi nhaaaa :v Còn giờ thì chờ gì nữa mà kkhông inbox cho Tui đi nàooo :***",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/tranquoctuan99';
+                    window.location = 'https://www.facebook.com/tqtuan1010';
                 }
             })
         }
